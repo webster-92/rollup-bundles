@@ -1,0 +1,1 @@
+{"fact":"Cats' hearing is much more sensitive than humans and dogs.","length":58}
