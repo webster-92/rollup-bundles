@@ -1,0 +1,1 @@
+{"fact":"A cat\u2019s jaw can\u2019t move sideways, so a cat can\u2019t chew large chunks of food.","length":74}
