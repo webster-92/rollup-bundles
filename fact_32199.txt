@@ -1,0 +1,1 @@
+{"fact":"A cat's field of vision is about 200 degrees.","length":45}
