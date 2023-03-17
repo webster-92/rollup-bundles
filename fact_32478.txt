@@ -1,0 +1,1 @@
+{"fact":"A domestic cat can run at speeds of 30 mph.","length":43}
