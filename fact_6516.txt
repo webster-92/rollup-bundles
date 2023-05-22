@@ -1,0 +1,1 @@
+{"fact":"There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.","length":100}
