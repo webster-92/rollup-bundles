@@ -1,0 +1,1 @@
+{"fact":"A cat\u2019s brain is biologically more similar to a human brain than it is to a dog\u2019s. Both humans and cats have identical regions in their brains that are responsible for emotions.","length":177}
