@@ -1,0 +1,1 @@
+{"fact":"The first cat in space was a French cat named Felicette (a.k.a. \u201cAstrocat\u201d) In 1963, France blasted the cat into outer space. Electrodes implanted in her brains sent neurological signals back to Earth. She survived the trip.","length":224}
