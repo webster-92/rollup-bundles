@@ -1,0 +1,1 @@
+{"fact":"Approximately 40,000 people are bitten by cats in the U.S. annually.","length":68}
