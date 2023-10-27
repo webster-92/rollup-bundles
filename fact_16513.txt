@@ -1,0 +1,1 @@
+{"fact":"Cats have been domesticated for half as long as dogs have been.","length":63}
